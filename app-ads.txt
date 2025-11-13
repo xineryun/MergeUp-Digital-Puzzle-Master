@@ -150,7 +150,7 @@ opera.com, pub7275292332480, RESELLER, 55a0c5fd61378de3
 sharethrough.com, 6qlnf8SY, RESELLER, d53b998a7bd4ecd2
 
 #vungle.com
-vungle.com,[yourVunglePublisherAccountID],DIRECT,c107d686becd2d77
+vungle.com,68b969f5932ccf2db393a626,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
 Media.net,8CU12AQ1Y,RESELLER
